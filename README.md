@@ -39,7 +39,7 @@ In this first iteration, I focused on **safety** (minimizing missed diagnoses). 
 ### 💻 How to Run
 1.  **Clone the repository:**
     \`\`\`bash
-    git clone https://github.com/YOUR_USERNAME/heart-disease-predictor.git
+    git clone https://github.com/UwaisTomkins124/heart_disease_predictoredictor.git
     cd heart-disease-predictor
     \`\`\`
 
